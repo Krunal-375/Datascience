@@ -1,1 +1,0 @@
-   pip install streamlit pandas numpy matplotlib seaborn scikit-learn statsmodels
